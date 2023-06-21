@@ -1,2 +1,2 @@
-# scrapy-redis-cluster-web-crawler
-scrapy web crawl
+# scrapy redis cluster web crawler project
+
